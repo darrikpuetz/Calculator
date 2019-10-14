@@ -13,11 +13,11 @@ Create a very basic, 4 function calculator within a console application.
 Upon completion, your calculator should contain the following:
 
 Inside the Program.cs file of your console application you should have 4 external methods plus the Main method:
-* Add()
+* Add()  
 ![alt text](https://github.com/darrikpuetz/Calculator/blob/master/CalcPix/Add.PNG "Add")
-* Subtract()
+* Subtract()  
 ![alt text](https://github.com/darrikpuetz/Calculator/blob/master/CalcPix/Subtract.PNG "Subtract")
-* Multiply()
+* Multiply()  
 ![alt text](https://github.com/darrikpuetz/Calculator/blob/master/CalcPix/Multiply.PNG "Multiply")
-* Divide()
+* Divide()  
 ![alt text](https://github.com/darrikpuetz/Calculator/blob/master/CalcPix/Divide.PNG "Divide")
